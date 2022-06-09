@@ -1,2 +1,2 @@
 # csvReader
-A simple CSV reader that reads student entities into the program and prints them to the console.
+A simple Java CSV reader that reads student entities into an array of Student objects and prints them to the console.
